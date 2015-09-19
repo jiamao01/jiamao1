@@ -1,0 +1,231 @@
+
+#b li a{
+	text-decoration:none;/*去除超链接下滑线*/
+}
+form{
+	position: absolute;   /* 表单定位 */
+	margin-left:40px;
+	margin-top:40px;
+	font-size:13.5px;
+	color: pink;
+}
+fieldset {
+    	border: none;
+    	display: inline;
+}
+
+
+input:hover {
+    	border: 1px solid rgb(255, 0, 0);
+}
+input {
+    	margin-left: 0px;
+    	padding: 10px;
+        border: 1px solid rgb(180, 180, 180);
+        border-radius: 10px;                /* 圆角边框 */
+        width: 100px;
+	font-size: 13.5px;
+	text-align: center;
+}
+.d1 li a:hover{
+	color:red;
+	text-decoration:none;/*去除超链接下滑线*/
+}
+div.menu ul{
+	width: auto; /* 宽度根据元素内容调整 */
+    	list-style:none; /* 去掉ul前面的符号 */
+    	margin: 0px; /* 与外界元素的距离为0 */
+   	 padding: 100px; /* 与内部元素的距离为0 */
+    	width: auto; /* 宽度根据元素内容调整 */
+
+	/* 所有class为menu的div中的ul中的li样式 */
+	color: #cfdbe6; /* 文字颜色 */
+ 	padding:10px ; /* 内部填充的距离 */
+    	float:left; /* 向左漂移，将竖排变为横排 */
+}
+div.menu ul li{
+	display:inline;
+	
+}
+#menu ul li a{
+	text-decoration:none;/*去除超链接下滑线*/
+}
+#c22 li a{
+	color:black;
+	font-size:12.5px;
+	margin-left:0px;
+	text-decoration:none;/*去除超链接下滑线*/
+}
+#c23 li a{
+	text-decoration:none;/*去除超链接下滑线*/
+	color:black;	
+}
+#c22 li a:hover{
+	color:#F2F2F2;
+}#c23 li a{
+	text-decoration:none;/*去除超链接下滑线*/
+}
+ul li{						/**/
+	border-bottom: 1px dashed gray;
+	margin-top: 5px;
+	padding-bottom:0px;
+	text-decoration:none;/*去除超链接下滑线*/
+}#d11 li a{
+	text-decoration:none;/*去除超链接下滑线*/
+	color:black;	
+}
+#_K li{
+	border-bottom: 0px dashed gray;	
+}
+#_K li{
+	border-bottom: 0px dashed gray;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

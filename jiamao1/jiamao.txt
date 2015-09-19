@@ -1,0 +1,485 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">   
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+	<link href="1.css" rel="stylesheet" type="text/css" >
+	<link href="1/.css" rel="stylesheet" type="text/css" />
+	<link href="1.css" rel="stylesheet" type="text/css" >
+	<link href="site.css" rel="stylesheet" type="text/css" >		
+	<title>计算机学院</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+	<style type="text/css">
+	</style>
+</head>
+<!--*******************************************************************************************-->
+<body>
+	<div id="total">
+	<div id="a">
+		<img src="top.png"/>
+	</div>
+<!--*******************************************************************************************-->
+	<div id="b">
+		<div class="menu">
+			<ul id="_K"><li><a  target="blank">　　　首页							 	</a></li>		 
+				  <li><a href="http://jsjxy.xznu.edu.cn/xygk/list.htm" >　　　　学院概况		</a></li>		 
+				  <li><a href="#">　　		教学管理 												</a></li>
+				  <li><a href="#">　　		学科管理													</a></li>
+				  <li><a href="#">　　		学术研究													</a></li>
+				  <li><a href="#">			研究生教育													</a></li>
+				  <li><a href="#">　		党建工作													</a></li>
+				  <li><a href="#">　　		学团工作													</a></li>
+				  <li><a href="#">　　		就业之窗													</a></li>
+				  <li><a href="#">　　		合作交流													</a></li>	  
+			</ul>
+		</div> 
+	</div>
+<!--*******************************************************************************************-->
+	<div id="c">
+		<div class="c321"  style="background: url(tu.jpg)  no-repeat;" >
+			<div id="actions" >			
+				<form action="form_action.asp" method="get">
+					<style>.text {border:1px solid #cccccc; color:#0099FF;WIDTH: 120px; LINE-HEIGHT: 20px; HEIGHT: 15px;}
+					</style>					
+					用 户 名: <input type="text" name="zhanghao" size="15"/>	 <br/>
+					密　　码: <input type="password" name="mizi" size="15">									
+				</form>			
+			</div>			
+			<div id="action2">
+				<form action="form_action.asp" method="get">
+					<input type="submit" value="登录" onClick="bt_submit_onclick() position:absolute;+margin-top:1px />						
+				<form action="form_action.asp" method="get">
+					<input type="reset" value="重置" />
+				</form>				
+			</div>	
+		</div>
+		<div class="c21">
+			<div id="kuai">
+			学院快讯	
+			</div>
+			<div id="mg">
+				<img src="more.gif"/>
+			</div>
+				<ul id="c22">
+					 <li >
+						<a href="#">计算机学院新生军训报道（一）...　　　　　09-07		</a>
+					 </li>
+					 <li >
+						<a href="#">计算机学院入学教育讲座之一...　　　　　　09-15		</a>
+					 </li>
+					 <li  >
+						<a href="#">计算机学院2015级新生开血典礼...　　　　　09-09		</a>
+						</li>
+					 <li  >
+					 <a href="#">	有序、高效、热情——计算机学院喜...　　　09-08		</a>
+					 </li>
+					 <li  >
+					 <a href="#">	为青春喝彩，为梦想奠基----计算机...　　　09-07		</a>
+					 </li>
+					 <li  >
+					 <a href="#">	匆匆十五载 母校再相逢——计算机学...　　 07-22			</a>
+					 </li>
+					 <li  >
+					 <a href="#">	“敬老之行，爱心之旅"———计算机...　　 	07-06			</a>
+					 </li>
+					 <li  >
+					 <a href="#">	计算机学院开展”逐梦泉山“2014级...　　　07-04			</a>
+					 </li>
+				</ul>
+		</div>
+<!--************************************************************************************************-->
+<!--************************************************************************************************-->
+		<div class="c111">
+			<div class="c11">
+					<font id="a111">
+							通知公告
+					</font>
+			</div>
+					<p class="a">
+						<marquee direction="up"  behavior="scroll"scrollamount="5" scrolldelay="100" height="213px" onmouseover="this.stop()" onmouseout="this.start()">
+								<ul id="c23" "style="float:left">
+											 <li  >
+													<a href="#">　第三周工作要点　　　　　　　　　09-07		</a>
+											 </li>
+											 <li  >
+													<a href="#">　第四周工作要点　　　　　　　　　09-10		</a>
+											 </li>
+											 <li  >
+													<a href="#">　第五周工作要点　　　　　　　　　09-12		</a>
+											 </li>
+											 <li   >
+													<a href="#">　第六周工作要点　　　　　　　　　09-20		</a>
+											 </li>
+											 <li   >
+													<a href="#">　第七周工作要点　　　　　　　　　09-25		</a>
+											 </li>
+											 <li   >
+													<a href="#">　第八周工作要点　　　　　　　　　10-01		</a>
+											 </li>
+											 <li   >
+													<a href="#">　第九周工作要点　　　　　　　　　10-06		</a>
+											 </li>
+											 <li   >
+													<a href="#">　第十周工作要点　　　　　　　　　10-28		</a>
+											 </li>
+											 <li   >
+													<a href="#">　十一周工作要点　　　　　　　　　11-11		</a>
+											 </li>
+											 <li   >
+													<a href="#">　十二周工作要点　　　　　　　　　11-15		</a>
+											 </li>
+											 <li   >	
+													<a href="#">　十三周工作要点　　　　　　　　　11-25		</a>
+											 </li>
+											 <li   >
+													<a href="#">　十四周工作要点　　　　　　　　　12--01		</a>
+											 </li>
+								 </ul>
+						</marquee>
+					</p>
+		</div>
+	</div>
+<!--********************************************************************************************************************-->
+	<div id="d">
+			<div class="d1">
+				<div style="position:relative;margin-left:10px;" >					
+					<img src="33.png" height="28" width="307" />					
+					<div id="jiaoxue" style="position:absolute; z-index:2; left:5px; top:3px">
+						教学工作
+					</div>
+					<div style="position:absolute; z-index:2; right:20px; top:8px">
+						<img src="more.gif"  />
+					</div>
+				</div>					
+					<ul id="d11" " style="float:left">
+										 <li  >
+											<a href="#">　第三周工作要点　　　　　　　　　　09-07		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第四周工作要点　　　　　　　　　　09-10		</a>
+										 </li>	
+										 <li   >
+											<a href="#">　第五周工作要点　　　　　　　　　　09-12		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第六周工作要点　　　　　　　　　　09-20		</a>
+										 </li>
+										 <li  >
+											<a href="#">　第七周工作要点　　　　　　　　　　09-25		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第八周工作要点　　　　　　　　　　10-01		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第九周工作要点　　　　　　　　　　10-06		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第十周工作要点　　　　　　　　　　10-28		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第十一周工作要点　　　　　　　　　11-11		</a>
+										 </li>
+										 <li  >
+											<a href="#">　第十二周工作要点　　　　　　　　　11-15		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第十三周工作要点　　　　　　　　　11-25		</a>
+										 </li>
+										 <li   >
+											<a href="#">　第十四周工作要点　　　　　　　　　12--01	</a>
+										 </li>
+					</ul>
+			</div>
+			<div class="d1">
+				<div style="position:relative;margin-left:10px;" >					
+					<img src="33.png" height="28" width="307" />					
+					<div id="jiaoxue" style="position:absolute; z-index:2; left:5px; top:3px">
+						学科科研
+					</div>
+					<div style="position:absolute; z-index:2; right:20px; top:8px">
+						<img src="more.gif"  />
+					</div>
+				</div>					
+					<ul id="d11" " style="float:left">
+						 <li>
+							<a href="#">　第三周工作要点　　　　　　　　　　09-07		</a>
+						 </li>
+						 <li>
+							<a href="#">　第四周工作要点　　　　　　　　　　09-10		</a>
+						 </li>	
+						 <li>
+							<a href="#">　第五周工作要点　　　　　　　　　　09-12		</a>
+						 </li>
+						 <li>
+							<a href="#">　第六周工作要点　　　　　　　　　　09-20		</a>
+						</li>
+						 <li>
+							<a href="#">　第七周工作要点　　　　　　　　　　09-25		</a>
+						</li>
+						<li>
+							<a href="#">　第八周工作要点　　　　　　　　　　10-01		</a>
+						</li>
+						<li>
+							<a href="#">　第九周工作要点　　　　　　　　　　10-06		</a>
+						</li>
+						<li>
+							<a href="#">　第十周工作要点　　　　　　　　　　10-28		</a>
+						</li>
+						<li>
+							<a href="#">　第十一周工作要点　　　　　　　　　11-11		</a>
+						</li>
+						<li>
+							<a href="#">　第十二周工作要点　　　　　　　　　11-15		</a>
+						 </li>
+						 <li>
+							<a href="#">　第十三周工作要点　　　　　　　　　11-25		</a>
+						 </li>
+						 <li>
+							<a href="#">　第十四周工作要点　　　　　　　　　12--01	</a>
+						</li>
+					</ul>				
+			</div>
+			<div class="d1">
+				<div style="position:relative;margin-left:10px;" >					
+					<img src="33.png" height="28" width="307" />					
+					<div id="jiaoxue" style="position:absolute; z-index:2; left:5px; top:3px">
+					研究生教育
+					</div>
+					<div style="position:absolute; z-index:2; right:20px; top:8px">
+						<img src="more.gif"  />
+					</div>
+				</div>					
+					<ul id="d11" " style="float:left">						
+						 <li>
+							<a href="#">　第三周工作要点　　　　　　　　　　09-07		</a>
+						 </li>
+						 <li>
+							<a href="#">　第四周工作要点　　　　　　　　　　09-10		</a>
+						 </li>	
+						 <li>
+							<a href="#">　第五周工作要点　　　　　　　　　　09-12		</a>
+						 </li>
+						 <li>
+							<a href="#">　第六周工作要点　　　　　　　　　　09-20		</a>
+						</li>
+						 <li>
+							<a href="#">　第七周工作要点　　　　　　　　　　09-25		</a>
+						</li>
+						<li>
+							<a href="#">　第八周工作要点　　　　　　　　　　10-01		</a>
+						</li>
+						<li>
+							<a href="#">　第九周工作要点　　　　　　　　　　10-06		</a>
+						</li>
+						<li>
+							<a href="#">　第十周工作要点　　　　　　　　　　10-28		</a>
+						</li>
+						<li>
+							<a href="#">　第十一周工作要点　　　　　　　　　11-11		</a>
+						</li>
+						<li>
+							<a href="#">　第十二周工作要点　　　　　　　　　11-15		</a>
+						 </li>
+						 <li>
+							<a href="#">　第十三周工作要点　　　　　　　　　11-25		</a>
+						 </li>
+						 <li>
+							<a href="#">　第十四周工作要点　　　　　　　　　12--01	</a>
+						</li>
+					</ul>			
+			</div>	
+	</div>
+<!--***********************************************************************************************************-->
+	<div id="e">
+			<div class="e1">
+				<div style="position:relative;margin-left:10px;" >	
+					<img src="33.png" height="28" width="307" />
+					<div id="jiaoxue" style="position:absolute; z-index:2; left:5px; top:3px">
+						党建工作
+					</div>
+					<div style="position:absolute; z-index:2; right:20px; top:8px">
+						<img src="more.gif"  />
+					</div>
+				</div>				
+						<ul id="d11" " style="float:left">
+							 <li>
+								<a href="#">　第三周工作要点　　　　　　　　　　09-07		</a>
+							 </li>
+							 <li>
+								<a href="#">　第四周工作要点　　　　　　　　　　09-10		</a>
+							 </li>	
+							 <li>
+								<a href="#">　第五周工作要点　　　　　　　　　　09-12		</a>
+							 </li>
+							 <li>
+								<a href="#">　第六周工作要点　　　　　　　　　　09-20		</a>
+							</li>
+							 <li>
+								<a href="#">　第七周工作要点　　　　　　　　　　09-25		</a>
+							</li>
+							<li>
+								<a href="#">　第八周工作要点　　　　　　　　　　10-01		</a>
+							</li>
+							<li>
+								<a href="#">　第九周工作要点　　　　　　　　　　10-06		</a>
+							</li>
+							<li>
+								<a href="#">　第十周工作要点　　　　　　　　　　10-28		</a>
+							</li>
+							<li>
+								<a href="#">　第十一周工作要点　　　　　　　　　11-11		</a>
+							</li>
+							<li>
+								<a href="#">　第十二周工作要点　　　　　　　　　11-15		</a>
+							 </li>
+							 <li>
+								<a href="#">　第十三周工作要点　　　　　　　　　11-25		</a>
+							 </li>
+							 <li>
+								<a href="#">　第十四周工作要点　　　　　　　　　12--01	</a>
+							</li>
+						</ul>			
+			</div>
+			<div class="e1">
+				<div style="position:relative;margin-left:10px;" >				
+					<img src="33.png" height="28" width="307" />				
+					<div id="jiaoxue" style="position:absolute; z-index:2; left:5px; top:3px">
+						学团工作
+					</div>
+					<div style="position:absolute; z-index:2; right:20px; top:8px">
+						<img src="more.gif"  />
+					</div>
+				</div>				
+						<ul id="d11" " style="float:left">
+							 <li>
+								<a href="#">　第三周工作要点　　　　　　　　　　09-07		</a>
+							 </li>
+							 <li>
+								<a href="#">　第四周工作要点　　　　　　　　　　09-10		</a>
+							 </li>	
+							 <li>
+								<a href="#">　第五周工作要点　　　　　　　　　　09-12		</a>
+							 </li>
+							 <li>
+								<a href="#">　第六周工作要点　　　　　　　　　　09-20		</a>
+							</li>
+							 <li>
+								<a href="#">　第七周工作要点　　　　　　　　　　09-25		</a>
+							</li>
+							<li>
+								<a href="#">　第八周工作要点　　　　　　　　　　10-01		</a>
+							</li>
+							<li>
+								<a href="#">　第九周工作要点　　　　　　　　　　10-06		</a>
+							</li>
+							<li>
+								<a href="#">　第十周工作要点　　　　　　　　　　10-28		</a>
+							</li>
+							<li>
+								<a href="#">　第十一周工作要点　　　　　　　　　11-11		</a>
+							</li>
+							<li>
+								<a href="#">　第十二周工作要点　　　　　　　　　11-15		</a>
+							 </li>
+							 <li>
+								<a href="#">　第十三周工作要点　　　　　　　　　11-25		</a>
+							 </li>
+							 <li>
+								<a href="#">　第十四周工作要点　　　　　　　　　12--01	</a>
+							</li>
+						</ul>			
+			</div>
+			<div class="e1">
+				<div style="position:relative;margin-left:10px;" >				
+					<img src="33.png" height="28" width="307" />			
+					<div id="jiaoxue" style="position:absolute; z-index:2; left:5px; top:3px">
+						下载
+					</div>
+					<div style="position:absolute; z-index:2; right:20px; top:8px">
+						<img src="more.gif"  />
+					</div>
+				</div>				
+						<ul id="d11" " style="float:left">
+							 <li>
+								<a href="#">　第三周工作要点　　　　　　　　　　09-07		</a>
+							 </li>
+							 <li>
+								<a href="#">　第四周工作要点　　　　　　　　　　09-10		</a>
+							 </li>	
+							 <li>
+								<a href="#">　第五周工作要点　　　　　　　　　　09-12		</a>
+							 </li>
+							 <li>
+								<a href="#">　第六周工作要点　　　　　　　　　　09-20		</a>
+							</li>
+							 <li>
+								<a href="#">　第七周工作要点　　　　　　　　　　09-25		</a>
+							</li>
+							<li>
+								<a href="#">　第八周工作要点　　　　　　　　　　10-01		</a>
+							</li>
+							<li>
+								<a href="#">　第九周工作要点　　　　　　　　　　10-06		</a>
+							</li>
+							<li>
+								<a href="#">　第十周工作要点　　　　　　　　　　10-28		</a>
+							</li>
+							<li>
+								<a href="#">　第十一周工作要点　　　　　　　　　11-11		</a>
+							</li>
+							<li>
+								<a href="#">　第十二周工作要点　　　　　　　　　11-15		</a>
+							 </li>
+							 <li>
+								<a href="#">　第十三周工作要点　　　　　　　　　11-25		</a>
+							 </li>
+							 <li>
+								<a href="#">　第十四周工作要点　　　　　　　　　12--01	</a>
+							</li>
+						</ul>			
+			</div>
+	</div>
+<!--*************************************************************************************************************-->
+	<div id="f">
+		<div id="xiang">相关链接：</div>
+		<div id="f1">
+			<select name="sel1">
+				<option selected="selected" value="">- 　-   -计算机执业单位 -  -　 -		</option>
+				<option value="1">国家工信部												</option>
+				<option value="2">中国物联网												</option>
+			</select>
+		</div>
+		<div id="f2">
+			<select name="sel2">
+				<option selected="selected" value="">- 　-  -校内网址   - -　-				</option>
+				<option value="11">江苏师范大学											</option>
+				<option value="22">校内信息													</option>
+			</select>
+		</div>
+		<div id="f3">
+			<select name="sel3">
+				<option selected="selected" value="">- - 　- - -国内科研结构 - - 　- - -	</option>
+				<option value="111">中科院计算机技术研究所									</option>
+				<option value="222">中科院研究所											</option>
+			</select>
+		</div>
+		<div id="f4">
+			<select name="sel4">
+				<option selected="selected" value="">- 　- -学院应用系统   -　- -			</option>
+				<option value="1111">就业跟踪系统											</option>
+				<option value="2222">党建交互式系统										</option>
+			</select>
+		</div>
+		<div id="6" >
+			<img src="5.png" height="95" width="327" style="float:left"/>　
+			 <font style="float:left;">
+			版权所有：何家茂	<br/>
+			版权所有：何家茂	<br/>
+			版权所有：何家茂
+			</font>
+		</div>	
+	</div>
+<!--*********************************************************************************************************-->
+</div>
+</body>
+</html>
